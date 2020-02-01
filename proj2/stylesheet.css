@@ -1,0 +1,31 @@
+.highlightedtext{
+
+    color:  #3498db;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.normal{
+
+    padding: 15px;
+    border: 15px solid #bdc3c7;
+    margin: auto;
+    max-width:600px;
+    height:700px;
+}
+
+.cap{
+
+    text-transform: capitalize;
+    color: #001b29;
+}
+
+.fs{
+
+    font-family: Source Sans Pro;
+}
+.bd{
+
+    border-left: 6px solid #bdc3c7;
+    padding: 3px;
+}
